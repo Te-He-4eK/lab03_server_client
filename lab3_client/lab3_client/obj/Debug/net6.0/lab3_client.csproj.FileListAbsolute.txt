@@ -1,0 +1,14 @@
+D:\vsvs\lab3_client\lab3_client\obj\Debug\net6.0\lab3_client.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsvs\lab3_client\lab3_client\obj\Debug\net6.0\lab3_client.AssemblyInfoInputs.cache
+D:\vsvs\lab3_client\lab3_client\obj\Debug\net6.0\lab3_client.AssemblyInfo.cs
+D:\vsvs\lab3_client\lab3_client\obj\Debug\net6.0\lab3_client.csproj.CoreCompileInputs.cache
+D:\vsvs\lab3_client\lab3_client\bin\Debug\net6.0\lab3_client.exe
+D:\vsvs\lab3_client\lab3_client\bin\Debug\net6.0\lab3_client.deps.json
+D:\vsvs\lab3_client\lab3_client\bin\Debug\net6.0\lab3_client.runtimeconfig.json
+D:\vsvs\lab3_client\lab3_client\bin\Debug\net6.0\lab3_client.dll
+D:\vsvs\lab3_client\lab3_client\bin\Debug\net6.0\lab3_client.pdb
+D:\vsvs\lab3_client\lab3_client\obj\Debug\net6.0\lab3_client.dll
+D:\vsvs\lab3_client\lab3_client\obj\Debug\net6.0\refint\lab3_client.dll
+D:\vsvs\lab3_client\lab3_client\obj\Debug\net6.0\lab3_client.pdb
+D:\vsvs\lab3_client\lab3_client\obj\Debug\net6.0\lab3_client.genruntimeconfig.cache
+D:\vsvs\lab3_client\lab3_client\obj\Debug\net6.0\ref\lab3_client.dll

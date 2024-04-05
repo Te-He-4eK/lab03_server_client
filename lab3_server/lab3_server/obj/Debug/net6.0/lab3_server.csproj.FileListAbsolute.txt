@@ -1,0 +1,14 @@
+D:\vsvs\lab3_server\lab3_server\bin\Debug\net6.0\lab3_server.exe
+D:\vsvs\lab3_server\lab3_server\bin\Debug\net6.0\lab3_server.deps.json
+D:\vsvs\lab3_server\lab3_server\bin\Debug\net6.0\lab3_server.runtimeconfig.json
+D:\vsvs\lab3_server\lab3_server\bin\Debug\net6.0\lab3_server.dll
+D:\vsvs\lab3_server\lab3_server\bin\Debug\net6.0\lab3_server.pdb
+D:\vsvs\lab3_server\lab3_server\obj\Debug\net6.0\lab3_server.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsvs\lab3_server\lab3_server\obj\Debug\net6.0\lab3_server.AssemblyInfoInputs.cache
+D:\vsvs\lab3_server\lab3_server\obj\Debug\net6.0\lab3_server.AssemblyInfo.cs
+D:\vsvs\lab3_server\lab3_server\obj\Debug\net6.0\lab3_server.csproj.CoreCompileInputs.cache
+D:\vsvs\lab3_server\lab3_server\obj\Debug\net6.0\lab3_server.dll
+D:\vsvs\lab3_server\lab3_server\obj\Debug\net6.0\refint\lab3_server.dll
+D:\vsvs\lab3_server\lab3_server\obj\Debug\net6.0\lab3_server.pdb
+D:\vsvs\lab3_server\lab3_server\obj\Debug\net6.0\lab3_server.genruntimeconfig.cache
+D:\vsvs\lab3_server\lab3_server\obj\Debug\net6.0\ref\lab3_server.dll
